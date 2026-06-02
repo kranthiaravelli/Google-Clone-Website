@@ -14,7 +14,7 @@ Add a screenshot of your project here.
 
 Example:
 
-![Project Screenshot](Google_Clone.png)
+![Project Screenshot](Google Clone.png)
 
 ---
 
