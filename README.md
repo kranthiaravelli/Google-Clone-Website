@@ -10,7 +10,7 @@ Although the project is not responsive, it helped me understand webpage structur
 
 ## Preview
 
-Add a screenshot of your project here.
+A screenshot of my project here.
 
 Example:
 
@@ -82,4 +82,4 @@ GitHub: https://github.com/kranthiaravelli/
 
 ## Live Demo
 
-Not Yet Deployed
+[Live Website Link](https://kranthiaravelli.github.io/Google-Clone-Website/)
